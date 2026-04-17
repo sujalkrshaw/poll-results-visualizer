@@ -171,7 +171,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Sujal Shaw**
+**Sujal kumar Shaw**
 
 ---
 
