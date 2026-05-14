@@ -108,57 +108,55 @@ Analyze poll responses based on regions and locations.
 Monitor poll activity over time using interactive charts.
 
 ---
+# 📷 Dashboard Screenshots
 
-# 🖥️ Dashboard Preview
+## 🖥️ Main Dashboard UI
 
-## 📊 Available Dashboard Visualizations
+![Dashboard UI](outputs/ui.png)
 
-### 📌 Bar Chart Visualization
+---
 
-```text
-outputs/bar.png
-```
+## 📊 Bar Chart Analysis
 
-### 📌 Distribution Analysis
+![Bar Chart](outputs/bar.png)
 
-```text
-outputs/distribution.png
-```
+---
 
-### 📌 AI Insights Visualization
+## 🥧 Pie Chart Visualization
 
-```text
-outputs/insight.png
-```
+![Pie Chart](outputs/pie.png)
 
-### 📌 Pie Chart Analytics
+---
 
-```text
-outputs/pie.png
-```
+## 📈 Response Over Time Analysis
 
-### 📌 Region-wise Poll Analysis
+![Response Over Time](outputs/response_over_time.png)
 
-```text
-outputs/region.png
-```
+---
 
-### 📌 Response Over Time Analysis
+## 🌍 Region-wise Analytics
 
-```text
-outputs/response_over_time.png
-```
+![Region Analysis](outputs/region.png)
 
-### 📌 Tool Preference Visualization
+---
 
-```text
-outputs/tool_preference.png
-```
+## 📉 Distribution Visualization
 
-### 📌 UI Analytics Dashboard
+![Distribution](outputs/distribution.png)
 
-```text
-outputs/ui.png
+---
+
+## 🧠 AI Insights Dashboard
+
+![Insights](outputs/insight.png)
+
+---
+
+## 🛠️ Tool Preference Analysis
+
+![Tool Preference](outputs/tool_preference.png)
+
+---
 ```
 
 ---
